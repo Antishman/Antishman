@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate tech enthusiast diving deep into the world of data science, machine learning, and backend development. My coding journey is driven by curiosity and a love for solving complex problems through innovative technology.
+I'm a passionate tech enthusiast diving deep into the world of backend development. My coding journey is driven by curiosity and a love for solving complex problems through innovative technology.
 
 ### 🔬 Tech Expertise
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
@@ -15,7 +15,7 @@ I'm a passionate tech enthusiast diving deep into the world of data science, mac
 
 - 🧠 Deep diving into backend development
 - 📊 Exploring advanced data science techniques
-- 🤖 Building intelligent machine learning models
+- 🤖 Building intelligent Bots
 
 ## 💡 What I'm Looking For
 
