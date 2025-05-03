@@ -40,7 +40,7 @@ I'm a passionate tech enthusiast diving deep into the world of backend developme
 
 ### 📝 Blog & Learning
 
-I occasionally write about my tech journey and learnings. Check out my [medium.com/antenehh1031]
+I occasionally write about my tech journey and learnings. Check out my medium.com/antenehh1031
 
 ---
 
